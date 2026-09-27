@@ -45,7 +45,7 @@ export const siteConfig: SiteConfig = {
 	title: "里托大师",
 
 	// 站点副标题
-	subtitle: "记录学习、生活与想法",
+	subtitle: "Fake it until make it",
 
 	// 站点 URL
 	site_url: "https://litumast.top",
