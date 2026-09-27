@@ -25,19 +25,19 @@ export const profileConfig: ProfileConfig = {
 			name: "GitHub",
 			icon: "fa7-brands:github",
 			url: "https://github.com/litumast",
-			showName: true,
+			showName: false,
 		},
 		{
 			name: "Email",
 			icon: "fa7-solid:envelope",
 			url: "2332512608@qq.com",
-			showName: true,
+			showName: false,
 		},
 		{
 	    name: "哔哩哔哩",
 	    icon: "fa7-brands:bilibili",
 	    url: "https://space.bilibili.com/400317118",
-	    showName: true,
+	    showName: false,
 		},
 		
 	],
