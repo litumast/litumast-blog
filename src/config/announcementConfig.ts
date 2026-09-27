@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "",
 
 	// 公告内容
-	content: "欢迎来到我的博客！这是一则示例公告。",
+	content: "愿你效仿韩立的和光同尘，王林的逆修踏天，石昊的独断万古。“或许就是因为出身平凡，所以遇见任何能改变自己命运的机会时才会抓的更牢，这没什么可耻的。”",
 
 	// 是否允许用户关闭公告
 	closable: true,
